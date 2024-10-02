@@ -1,4 +1,3 @@
-jessevhedden$ cat main_0.py
 #!/usr/bin/python3
 """
 Test 0x07 - Rotate 2D Matrix
@@ -19,4 +18,3 @@ jessevhedden$ ./main_0.py
 [8, 5, 2],
 [9, 6, 3]]
 jessevhedden$
-
